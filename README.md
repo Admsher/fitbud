@@ -11,3 +11,5 @@ While we are resolving the formalities to publish in the Google Play Store for n
 3. If there is a positive response form the community we might start wokring on making it a full fleged production ready application :).
 4. Sometimes the server can be turned off since I am using my personal assets for hosting , this might cause sme issues but I will try to keep it on for as long as possible.
 
+
+
